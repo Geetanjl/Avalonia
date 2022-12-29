@@ -1,5 +1,4 @@
 jobs:
-
 - job: GetPRNumber
   pool:
     vmImage: 'windows-2022'
